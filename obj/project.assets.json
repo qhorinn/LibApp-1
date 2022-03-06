@@ -6720,20 +6720,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marcin\\.nuget\\packages\\": {}
+    "C:\\Users\\KUBA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcin\\Desktop\\GIT\\LibApp\\LibApp.csproj",
+      "projectUniqueName": "C:\\Users\\KUBA\\Desktop\\LibApp-master\\LibApp.csproj",
       "projectName": "LibApp",
-      "projectPath": "C:\\Users\\Marcin\\Desktop\\GIT\\LibApp\\LibApp.csproj",
-      "packagesPath": "C:\\Users\\Marcin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcin\\Desktop\\GIT\\LibApp\\obj\\",
+      "projectPath": "C:\\Users\\KUBA\\Desktop\\LibApp-master\\LibApp.csproj",
+      "packagesPath": "C:\\Users\\KUBA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KUBA\\Desktop\\LibApp-master\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Marcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\KUBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6801,7 +6806,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
